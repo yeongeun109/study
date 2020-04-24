@@ -39,7 +39,7 @@ int main() {
 			for (int k = 0; k < 9; k++) {
 				arr2[arr[k][j] - 1]++;
 
-				if (arr2[arr[k][j]] -1> 1)
+				if (arr2[arr[k][j] - 1]> 1)
 				{
 					result = 0;
 					hey = true;
@@ -52,15 +52,28 @@ int main() {
 
 		for (int i = 0; i < 3; i++) {
 			for (int j = 0; j < 3; j++) {
-				int sum = 0;
+				int arr2[9] = { 0 };
 				for (int k = 0; k < 3; k++) {
 					for (int l = 0; l < 3; l++) {
-						sum += arr[(i*3) + k][j * 3 + l];
+						arr2[arr[i * 3 + k][j * 3 + l] - 1]++;
+
+						if (arr2[arr[i * 3 + k][j * 3 + l] - 1] > 1)
+						{
+							result = 0;
+							hey = true;
+							break;
+						}
 					}
+					if (hey == true)
+						break;
 				}
-				if (sum != 45) result = 0;
+				if (hey == true)
+					break;
 			}
+			if (hey == true)
+				break;
 		}
+
 		cout << '#' << i+1 << ' ' << result << endl;
 	}
 }
