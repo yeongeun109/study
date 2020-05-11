@@ -145,7 +145,10 @@
     <ClCompile Include="1208.[SW 문제해결기본]1일차-Flatten.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1209[SW문제해결기본]2일차-Sum.cpp" />
+    <ClCompile Include="1209[SW문제해결기본]2일차-Sum.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1213.[SW문제해결기본]3일차-String.cpp" />
     <ClCompile Include="1946간단한압축풀기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

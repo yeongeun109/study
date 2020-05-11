@@ -54,5 +54,8 @@
     <ClCompile Include="1209[SW문제해결기본]2일차-Sum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1213.[SW문제해결기본]3일차-String.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
