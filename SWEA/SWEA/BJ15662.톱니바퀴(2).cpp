@@ -7,7 +7,7 @@ int main() {
 	int T; //톱니바퀴 개수
 	cin >> T;
 	vector <vector<int>> a;
-	
+
 	for (int i = 0; i < T; i++) {
 		vector <int> b;
 		string num;
@@ -37,12 +37,12 @@ int main() {
 		while (arr_connect[x] != true) {
 			if (direct == 1) { // 오른쪽으로 한 칸 이동
 				for (int j = 0; j < 8; j++) {
-					arr_direct[j] = 
+					arr_direct[j] =
 				}
 			}
 			else
-			
-			x--;
+
+				x--;
 		}
 	}
 }
