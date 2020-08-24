@@ -57,5 +57,8 @@
     <ClCompile Include="1213.[SW문제해결기본]3일차-String.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BJ15662.톱니바퀴(2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
