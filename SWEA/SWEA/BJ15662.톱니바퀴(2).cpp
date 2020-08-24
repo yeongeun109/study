@@ -52,4 +52,5 @@ int main() {
 				for (int j = 1; j < 7; j++) {
 					a[x][j] = a[x][j + 1];
 				}
-				a[x][0] = temp;*/
+				a[x][0] = temp;
+				*/
