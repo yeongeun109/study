@@ -66,5 +66,8 @@
     <ClCompile Include="BJ10872.재귀 팩토리얼.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BJ1966.프린터큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
