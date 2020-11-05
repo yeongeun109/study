@@ -13,76 +13,82 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\SWEA">
+      <UniqueIdentifier>{6dae414a-6776-4ae9-aca9-0b43fe5eee79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{cff1f24e-25ff-42bf-b173-3381b14a8cf3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1946간단한압축풀기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1948날짜계산기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1954달팽이숫자.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1959두개의숫자열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1961숫자배열회전.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1966숫자를정렬하자.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1970쉬운거스름돈.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1974스도쿠검증.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1976시각덧셈.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1979어디에단어가들어갈수있을까.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1206[SW문제해결기본]1일차-View.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
     <ClCompile Include="1208.[SW 문제해결기본]1일차-Flatten.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
     <ClCompile Include="1209[SW문제해결기본]2일차-Sum.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
     <ClCompile Include="1213.[SW문제해결기본]3일차-String.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
     <ClCompile Include="1215[SW문제해결기본]3일차-회문1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ15662.톱니바퀴(2).cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1946간단한압축풀기.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ10872.재귀 팩토리얼.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1948날짜계산기.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ1966.프린터큐.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1954달팽이숫자.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ1003.피보나치함수.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1959두개의숫자열.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ2133.타일채우기.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1961숫자배열회전.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ1260DFS BFS.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1966숫자를정렬하자.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ14891.톱니바퀴.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1970쉬운거스름돈.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
-    <ClCompile Include="BJ2606 바이러스.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1974스도쿠검증.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="1976시각덧셈.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="1979어디에단어가들어갈수있을까.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.피보나치함수.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1260DFS BFS.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1966.프린터큐.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1991트리순회.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="2133.타일채우기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="10872.재귀 팩토리얼.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="14891.톱니바퀴.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="15662.톱니바퀴%282%29.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
