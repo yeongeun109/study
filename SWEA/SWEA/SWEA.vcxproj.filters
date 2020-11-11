@@ -75,9 +75,6 @@
     <ClCompile Include="1966.프린터큐.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="1991트리순회.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="2133.타일채우기.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -90,7 +87,28 @@
     <ClCompile Include="15662.톱니바퀴%282%29.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="1167.트리의지름.cpp">
+    <ClCompile Include="10172개.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1167.트리의지름!.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1991트리순회!.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1000a+b.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="10869사칙연산.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="10430나머지.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="2588곱셈.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="1330두 수 비교하기.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
