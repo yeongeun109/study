@@ -138,5 +138,8 @@
     <ClCompile Include="15552빠른 a+B.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="11021A+B -7.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
