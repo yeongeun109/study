@@ -9,9 +9,11 @@ int main() {
 	if (m >= 45) {
 		cout << h << ' ' << m - 45;
 	}
+
 	else if(h == 0){
 		cout <<  23 << ' ' << 60 - (45 - m);
 	}
+
 	else {
 		cout << h - 1 << ' ' << 60 - (45 - m);
 	}
