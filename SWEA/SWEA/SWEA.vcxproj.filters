@@ -165,5 +165,8 @@
     <ClCompile Include="4344평균은넘겠지.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="15596정수 N개의 합.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
