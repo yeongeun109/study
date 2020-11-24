@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{cff1f24e-25ff-42bf-b173-3381b14a8cf3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준\스터디">
+      <UniqueIdentifier>{eb246dc4-aefc-49e5-8c5b-b104ff2fc12e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206[SW문제해결기본]1일차-View.cpp">
@@ -87,86 +90,95 @@
     <ClCompile Include="15662.톱니바퀴%282%29.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="10172개.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="1167.트리의지름!.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="1991트리순회!.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="1000a+b.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="10869사칙연산.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="10430나머지.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2588곱셈.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="1330두 수 비교하기.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
-    <ClCompile Include="2753윤년.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="14681사분면 고르기.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2884알람시계.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2739구구단.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="10950a+b -3.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="10871x보다작은수.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2742기찍N.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="8393합.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="15552빠른 a+B.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="11021A+B -7.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="11022A+B -8.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="10818최소,최대.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2562최댓값.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="2577숫자의 개수.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="3052나머지.cpp">
-      <Filter>소스 파일\백준</Filter>
+    <ClCompile Include="1000a+b.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
     <ClCompile Include="1546평균.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
-    <ClCompile Include="8958OX퀴즈.cpp">
-      <Filter>소스 파일\백준</Filter>
+    <ClCompile Include="2562최댓값.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2577숫자의 개수.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2588곱셈.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2739구구단.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2742기찍N.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2753윤년.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="2884알람시계.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="3052나머지.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
     <ClCompile Include="4344평균은넘겠지.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="8393합.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="8958OX퀴즈.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10172개.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10430나머지.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10818최소,최대.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10869사칙연산.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10871x보다작은수.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="10950a+b -3.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="11021A+B -7.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="11022A+B -8.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="14681사분면 고르기.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="15552빠른 a+B.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
     <ClCompile Include="15596정수 N개의 합.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="11725트리의 부모 찾기.cpp">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="4673셀프 넘버.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="1065한수.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
