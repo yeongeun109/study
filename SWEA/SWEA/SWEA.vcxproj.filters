@@ -180,5 +180,8 @@
     <ClCompile Include="1065한수.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="11654아스키 코드.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
