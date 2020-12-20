@@ -231,5 +231,8 @@
     <ClCompile Include="1978 소수 찾기.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="2581 소수.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
