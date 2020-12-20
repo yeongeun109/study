@@ -228,5 +228,8 @@
     <ClCompile Include="1011 Fly me to the Alpha Centauri.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="1978 소수 찾기.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
