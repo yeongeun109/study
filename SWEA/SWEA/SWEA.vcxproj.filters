@@ -222,5 +222,11 @@
     <ClCompile Include="10250 ACM 호텔.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="2775 부녀회장이 될테야.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="1011 Fly me to the Alpha Centauri.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
