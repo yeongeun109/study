@@ -243,5 +243,8 @@
     <ClCompile Include="9020 골드바흐의 추측.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="1085 직사각형에서 탈출.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
