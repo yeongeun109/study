@@ -249,5 +249,14 @@
     <ClCompile Include="3009 네 번째 점.cpp">
       <Filter>소스 파일\백준\스터디</Filter>
     </ClCompile>
+    <ClCompile Include="4153 직각삼각형.cpp">
+      <Filter>소스 파일\백준\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1436 영화감독 숌.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
